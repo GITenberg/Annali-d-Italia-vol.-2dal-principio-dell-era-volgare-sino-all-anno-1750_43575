@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40167
     wikipedia: http://en.wikipedia.org/wiki/Ludovico_Antonio_Muratori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43575#Annali-d-Italia-vol.-2dal-principio-dell-era-volgare-sino-all-anno-1750
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-08-27'
 gutenberg_type: Text
