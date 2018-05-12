@@ -1,0 +1,38 @@
+_repo: Annali-d-Italia-vol.-2dal-principio-dell-era-volgare-sino-all-anno-1750_43575
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43575-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Muratori, Lodovico Antonio
+    aliases:
+    - Muratori, L. A. (Lodovico Antonio)
+    - Muratorio, Ludovico Antonio
+    - Muratori, Ludovico Antonio
+    - Lampridius, Antonius
+    - Pritanio, Lamindo
+    - Valdesius, Ferdinandus
+    - Muratori, Luis Antonio
+    birthdate: 1672
+    deathdate: 1750
+    gutenberg_agent_id: '40167'
+    url: http://www.gutenberg.org/2009/agents/40167
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Antonio_Muratori
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2013-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43575'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History'
+- !lcc 'DG'
+title: 'Annali d''Italia, vol. 2
+
+  dal principio dell''era volgare sino all''anno 1750'
+url: http://www.gutenberg.org/ebooks/43575
